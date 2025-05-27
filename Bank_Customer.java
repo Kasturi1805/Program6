@@ -1,4 +1,4 @@
-package Program6;
+//package Program6;
 
 
     public class Bank_Customer {
